@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Map Sample</string>
+    <string name="offline_open_no_data_error">You don\'t have a network connection and have not opened application with an active internet before. Please open the app with an active internet connection at least once.</string>
+    <string name="no_data_available_to_show">No data available to show</string>
+    <string name="ok">OK</string>
+    <string name="vehicle_type">Type: %s</string>
+    <string name="vehicle_lat">Lat: %s</string>
+    <string name="vehicle_lng">Lng: %s</string>
+    <string name="vehicle_bearing">Heading: %s</string>
+    <string name="vehicle_list">Vehicle List</string>
+    <string name="splash_title">Find Your Taxi!</string>
+    <string name="error_fetching_data">Error fetching data</string>
+    <string name="try_again">Try again</string>
+    <string name="list_page">Go To List</string>
+    <string name="map_page">GO To Map</string>
+
+</resources>
